@@ -1,0 +1,6 @@
+C:\Users\Desarrollador\Desktop\C#\Diccionarios\Diccionarios\Diccionarios\bin\Debug\Diccionarios.exe.config
+C:\Users\Desarrollador\Desktop\C#\Diccionarios\Diccionarios\Diccionarios\bin\Debug\Diccionarios.exe
+C:\Users\Desarrollador\Desktop\C#\Diccionarios\Diccionarios\Diccionarios\bin\Debug\Diccionarios.pdb
+C:\Users\Desarrollador\Desktop\C#\Diccionarios\Diccionarios\Diccionarios\obj\Debug\Diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador\Desktop\C#\Diccionarios\Diccionarios\Diccionarios\obj\Debug\Diccionarios.exe
+C:\Users\Desarrollador\Desktop\C#\Diccionarios\Diccionarios\Diccionarios\obj\Debug\Diccionarios.pdb

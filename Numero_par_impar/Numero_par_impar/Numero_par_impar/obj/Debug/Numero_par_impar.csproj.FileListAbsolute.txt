@@ -1,0 +1,7 @@
+C:\Users\Desarrollador\Desktop\NET\Numero_par_impar\Numero_par_impar\Numero_par_impar\bin\Debug\Numero_par_impar.exe.config
+C:\Users\Desarrollador\Desktop\NET\Numero_par_impar\Numero_par_impar\Numero_par_impar\bin\Debug\Numero_par_impar.exe
+C:\Users\Desarrollador\Desktop\NET\Numero_par_impar\Numero_par_impar\Numero_par_impar\bin\Debug\Numero_par_impar.pdb
+C:\Users\Desarrollador\Desktop\NET\Numero_par_impar\Numero_par_impar\Numero_par_impar\obj\Debug\Numero_par_impar.csprojAssemblyReference.cache
+C:\Users\Desarrollador\Desktop\NET\Numero_par_impar\Numero_par_impar\Numero_par_impar\obj\Debug\Numero_par_impar.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador\Desktop\NET\Numero_par_impar\Numero_par_impar\Numero_par_impar\obj\Debug\Numero_par_impar.exe
+C:\Users\Desarrollador\Desktop\NET\Numero_par_impar\Numero_par_impar\Numero_par_impar\obj\Debug\Numero_par_impar.pdb

@@ -1,0 +1,7 @@
+C:\Users\Desarrollador\Desktop\C#\foreach\foreach\foreach\bin\Debug\@foreach.exe.config
+C:\Users\Desarrollador\Desktop\C#\foreach\foreach\foreach\bin\Debug\@foreach.exe
+C:\Users\Desarrollador\Desktop\C#\foreach\foreach\foreach\bin\Debug\@foreach.pdb
+C:\Users\Desarrollador\Desktop\C#\foreach\foreach\foreach\obj\Debug\foreach.csprojAssemblyReference.cache
+C:\Users\Desarrollador\Desktop\C#\foreach\foreach\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador\Desktop\C#\foreach\foreach\foreach\obj\Debug\@foreach.exe
+C:\Users\Desarrollador\Desktop\C#\foreach\foreach\foreach\obj\Debug\@foreach.pdb
