@@ -11,9 +11,9 @@ namespace Arreglos
         static void Main(string[] args)
         {
             float[] calificaciones = new float[10];
-            foreach (var color in calificaciones)
+            foreach (var name in calificaciones)
             {
-                Console.Write(color + " ");
+                Console.Write(name + " ");
             }
             Console.ReadLine();
         }

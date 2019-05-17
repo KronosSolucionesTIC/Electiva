@@ -5,3 +5,10 @@ C:\Users\Desarrollador\Desktop\C#\Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.
 C:\Users\Desarrollador\Desktop\C#\Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
 C:\Users\Desarrollador\Desktop\C#\Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.exe
 C:\Users\Desarrollador\Desktop\C#\Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+C:\C#\Arreglos\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\C#\Arreglos\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\C#\Arreglos\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\C#\Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.csprojAssemblyReference.cache
+C:\C#\Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\C#\Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\C#\Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
